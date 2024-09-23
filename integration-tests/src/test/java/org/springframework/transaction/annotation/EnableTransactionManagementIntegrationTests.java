@@ -56,6 +56,7 @@ import static org.assertj.core.api.Assertions.assertThatException;
  */
 class EnableTransactionManagementIntegrationTests {
 	// avinash made a change
+	// hi
 
 	@Test
 	void repositoryIsNotTxProxy() {
